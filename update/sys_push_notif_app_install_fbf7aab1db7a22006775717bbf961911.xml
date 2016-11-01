@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2016-11-01 01:27:33</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-01 01:27:33</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fbf7aab1db7a22006775717bbf961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>edmPBa8tGXo:APA91bGPVrAB51m3pE_K_-7dyrx3hDtGWK5u6z8xUcn6zc3UHviiTtlk_aRaWcY-F9cI8E_uqoGGmQ3CYLNJdkKmjWzgqcugIY-8I2HysQXB50_r7w367Ispj-vH2GzIdFmXjtschAjx</sys_name>
+        <sys_package display_value="roombooking" source="x_snc_roombooking">1a29eaa5dbb6220075827ffdbf96190a</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="roombooking">1a29eaa5dbb6220075827ffdbf96190a</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_fbf7aab1db7a22006775717bbf961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-01 01:27:33</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>edmPBa8tGXo:APA91bGPVrAB51m3pE_K_-7dyrx3hDtGWK5u6z8xUcn6zc3UHviiTtlk_aRaWcY-F9cI8E_uqoGGmQ3CYLNJdkKmjWzgqcugIY-8I2HysQXB50_r7w367Ispj-vH2GzIdFmXjtschAjx</token>
+    </sys_push_notif_app_install>
+</record_update>
